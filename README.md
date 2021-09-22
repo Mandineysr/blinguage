@@ -1,24 +1,7 @@
-# blinguage
+# Blinguage
 
-## Project setup
-```
-npm install
-```
+Petit projet de reproduction d'une maquette en jpg.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Résultat :
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="./resultat.png">
